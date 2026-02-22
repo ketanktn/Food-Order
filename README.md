@@ -1,6 +1,4 @@
-# 🥘 Food Order Website Complete Course
-In this course, you'll learn to Create a Complete Dynamic and Fully Functional Website using PHP prrogramming language and MySQL Database.
-
+# 🥘 Food Order Website 
 
 # ⚙️ Technology Used
 1. HTML5
@@ -10,29 +8,19 @@ In this course, you'll learn to Create a Complete Dynamic and Fully Functional W
 
 
 # 🧰 Features
-1. Visitors/Users can browse all the Categories and Food Items. 
-2. They also can order easily from the website.
-3. Admin can Manage Admin, Caegories and Food Items
-4. Admin can also Manage and Track Food Order and Delivery
+1. Visitors and users can browse all food categories and available items on the website.
+2. Users can easily place orders through the online ordering system.
+3. The admin can manage administrators, categories, and food items.
+4. The admin can monitor, manage, and track food orders and delivery status.
 
 
-# 🎓 Access the Course
-[Click Here](https://www.youtube.com/watch?v=ZBgTzx46B8s&list=PLBLPjjQlnVXXBheMQrkv3UROskC0K1ctW) and Learn to develop a fully functional and dynamic **"Food Order System"** with PHP programming language and MySQL Database.
+# Screenshots
+<img width="876" height="437" alt="image" src="https://github.com/user-attachments/assets/72790bdf-048b-4b73-9b47-1fd82fa093f0" />
 
+<img width="238" height="224" alt="image" src="https://github.com/user-attachments/assets/c043e3ee-09a3-4567-bf4e-bc9473f8d930" />
 
-## 👏 Support Developer
-1. Subscribe & Share my YouTube Channel - https://bit.ly/vijay-thapa-online-courses
-2. Add a Star 🌟  to this 👆 Repository
+<img width="840" height="456" alt="image" src="https://github.com/user-attachments/assets/66102e83-a1bd-4413-ad35-b7a3d3a834a9" />
 
-
-
-## Donate
-
-**[PayPal](https://bit.ly/support-vijay-thapa)**
-
-**[Buy me a Coffee  ☕️](https://www.buymeacoffee.com/vijaythapa)**
-
-**Donate by wire transfer:** E-Mail at *donate@vijaythapa.com* for wire transfer details. 
 
 
 ## 📖  How to Download the Project and Run on your PC?
@@ -83,5 +71,5 @@ $db_select = mysqli_select_db($conn, DB_NAME) or die(mysqli_error()); //SElectin
 ?>
 ```
 
-6. Now, Open the project in your browser. It should run perfectly.
+6. Now, Open the project in your browser.
 
